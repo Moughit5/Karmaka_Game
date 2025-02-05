@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.jeu.karmaka"},{"l":"com.jeu.karmaka.Cards"},{"l":"com.jeu.karmaka.Ladder"},{"l":"com.jeu.karmaka.MainGame"},{"l":"com.jeu.karmaka.Players"}]
